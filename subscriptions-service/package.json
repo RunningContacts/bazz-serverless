@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.162.0",
-    "boom": "5.2.0",
+    "boom": "7.3.0",
     "pino": "^4.10.2",
     "statuses": "^1.4.0",
     "web-push": "^3.2.5"
